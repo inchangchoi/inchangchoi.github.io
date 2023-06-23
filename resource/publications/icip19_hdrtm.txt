@@ -1,0 +1,7 @@
+@InProceedings{Kang_2019_ICIP,
+author = {Mingyun Kang and Joo Ho Lee and Inchang Choi and Min H. Kim},
+title = {Real-time HDR Video Tone Mapping using High Efficiency Video Coding},
+booktitle = {The IEEE International Conference on Image Processing (ICIP)},
+month = {September},
+year = {2019}
+}

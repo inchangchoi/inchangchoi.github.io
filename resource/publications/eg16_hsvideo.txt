@@ -1,0 +1,9 @@
+@Article{JeonChoiKim:EG:2016,
+  author  = {Daniel S. Jeon and Inchang Choi and Min H. Kim},
+  title   = {Multisampling Compressive Video Spectroscopy},
+  journal = {Computer Graphics Forum (Proc. EUROGRAPHICS 2016)},
+  year    = {2016},
+  volume  = {35},
+  number  = {2},
+  pages   = {467--477}
+}          

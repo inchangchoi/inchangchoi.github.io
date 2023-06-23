@@ -1,0 +1,10 @@
+@InProceedings{LeeChoiKim:CVPR:2016,
+  author  = {Joo Ho Lee and Inchang Choi and Min H. Kim},
+  title   = {Laplacian Patch-Based Image Synthesis},
+  booktitle = {Proc. IEEE Computer Vision and Pattern Recognition (CVPR 2016)},
+  publisher = {IEEE},  
+  address = {Las Vegas, USA},
+  year = {2016},
+  pages = {},
+  volume  = {},
+}

@@ -1,0 +1,10 @@
+@InProceedings{BaekChoiKim:CVPR:2016,
+  author  = {Seung-Hwan Baek and Inchang Choi and Min H. Kim},
+  title   = {Multiview Image Completion with Space Structure Propagation},
+  booktitle = {Proc. IEEE Computer Vision and Pattern Recognition (CVPR 2016)},
+  publisher = {IEEE},  
+  address = {Las Vegas, USA},
+  year = {2016},
+  pages = {},
+  volume  = {},
+}

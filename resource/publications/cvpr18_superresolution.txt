@@ -1,0 +1,13 @@
+@InProceedings{Jeonetal:CVPR:2018,
+  author  = {Daniel S. Jeon and Seung-Hwan Baek and Inchang Choi 
+            and Min H. Kim},
+  title   = {Enhancing the Spatial Resolution of Stereo Images 
+            using a Parallax Prior},
+  booktitle = {Proc. IEEE Computer Vision and Pattern Recognition
+            (CVPR 2018)},
+  publisher = {IEEE},  
+  address = {Salt Lake City, Utah, United States},
+  year = {2018},
+  pages = {},
+  volume  = {},
+}    

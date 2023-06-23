@@ -1,0 +1,6 @@
+@inproceedings{Choi13ICCV,
+ author = {I. Choi and S. Kim and M.S. Brown and Y.-W. Tai},
+ title = {A Learning-Based Approach to Reduce JPEG Artifacts in Image Matting},
+ booktitle = {ICCV},
+ year = {2013},
+ }

@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+
+
+div.ic_content_padding{
+	padding: 25px 0px;
+}
+
+
+div.grad1 {
+
+	background: -webkit-linear-gradient(red, blue);
+	/* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(red, blue);
+	/* For Firefox 3.6 to 15 */
+	background: linear-gradient( #cccccc, white);
+	/* Standard syntax (must be last) */
+}
+
+h4.titles{
+	font-weight: 500
+}
+
+font.cofname{
+	color: #999999
+}
+
+div.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+
+a.link_inchang{
+	/*text-transform: capitalize;*/
+	font-weight: bold;
+	/*font-style: italic;*/
+
+}

@@ -1,0 +1,9 @@
+  @Article{HDRVideo:TIP:2017,
+  author  = {Inchang Choi and Seung-Hwan Baek and Min H. Kim},
+  title   = {Reconstructing Interlaced High-Dynamic-Range Video using Joint Learning},
+  journal = {IEEE Transactions on Image Processing (TIP)},
+  year={2017}, 
+  volume={26}, 
+  number={11}, 
+  pages={5353-5366}, 
+  } 

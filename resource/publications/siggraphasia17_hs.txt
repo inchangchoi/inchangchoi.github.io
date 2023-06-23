@@ -1,0 +1,13 @@
+@Article{DeepCASSI:SIGA:2017,
+  author  = {Inchang Choi and Daniel S. Jeon and Giljoo Nam 
+             and Diego Gutierrez and Min H. Kim},
+  title   = {High-Quality Hyperspectral Reconstruction 
+             Using a Spectral Prior},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2017)},
+  year    = {2017},
+  volume  = {36},
+  number  = {6},
+  pages   = {218:1-13},
+  doi     = "10.1145/3130800.3130810",
+  url     = "http://dx.doi.org/10.1145/3130800.3130810",
+  }         
